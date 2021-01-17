@@ -1,5 +1,7 @@
 # Event logging analysis
 
+[See in nbviewer](https://nbviewer.jupyter.org/github/gruntoff/eventlog_analysis/blob/main/ELanalysis.ipynb)
+
 ## How to run
 
 1. Run in terminal:
